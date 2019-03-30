@@ -1,7 +1,6 @@
 # lab-pbo-java
-Object Oriented Java Laboratory
+Object Oriented Programming Java Laboratory
 
-Ini hanya untuk mengumpulkan Tugas saja.
-Mohon maaf bila terdapat kesalahan 
+I'm Sorry for this repo have so many problem >:(
 
-Have a good day :D
+I'm so happy if someone give me a great solution for this repo :D
